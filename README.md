@@ -42,6 +42,8 @@ Archiving academic papers for HLF researchers.
 - [Endorsement in Hyperledger Fabric via service discovery (IBM Journal of Research and Development 2019)](https://ieeexplore.ieee.org/document/8645637)
 
 # Applications
+  - [A Framework for Resilient, Transparent, High-throughput, Privacy-Enabled Central Bank Digital Currencies (eprint 2023)](https://eprint.iacr.org/2023/1717)
+  - [CBDC Bridging between Hyperledger Fabric and Permissioned EVM-based Blockchains (ICBC 2023)](https://ieeexplore.ieee.org/document/10174953)
   - [FabAsset: Unique Digital Asset Management System for Hyperledger Fabric (BlockApp 2020)](https://ieeexplore.ieee.org/document/9355749)
 - [Design of Extensible Non-Fungible Token Model in Hyperledger Fabric (SERIAL 2019)](https://dl.acm.org/doi/abs/10.1145/3366611.3368142)
 - [BlockLot: Blockchain based Verifiable Lottery (arxiv 2019)](https://arxiv.org/abs/1912.00642)
