@@ -13,12 +13,6 @@ Archiving academic papers for HLF researchers.
 - [Why Do My Blockchain Transactions Fail? A Study of Hyperledger Fabric (SIGMOD 2021)](https://dl.acm.org/doi/10.1145/3448016.3452823)
 - [Redacting Transactions from Execute-Order-Validate Blockchains (ICBC'2021)](https://arxiv.org/abs/2105.14818)
 
-# Optimizations
-- [StreamChain: Do Blockchains Need Blocks? (SERIAL'18)](https://www.vukolic.com/streamchain-serial.pdf)
-- [FastFabric: Scaling Hyperledger Fabric to 20,000 Transactions per Second (ICBC 2019)](https://ieeexplore.ieee.org/document/8751452)
-- [Fair and Efficient Gossip in Hyperledger Fabric (ICDCS 2020)](https://ieeexplore.ieee.org/document/9355725)
-
-
 # Consensus (Ordering Service)
 - [Practical Byzantine Fault Tolerance (OSDI 1999)](https://pmg.csail.mit.edu/papers/osdi99.pdf)
 - [In Search of an Understandable Consensus Algorithm (ATC 2014)](https://raft.github.io/raft.pdf)
@@ -28,12 +22,19 @@ Archiving academic papers for HLF researchers.
 - [Mir-BFT: High-Throughput Robust BFT for Decentralized Networks (Arxiv 2019)](https://arxiv.org/abs/1906.05552)
 - [ISS: State Machine Replication Scalability Made Simple (EuroSys 2022)](https://dl.acm.org/doi/10.1145/3492321.3519579)
 
+# Optimizations
+- [StreamChain: Do Blockchains Need Blocks? (SERIAL'18)](https://www.vukolic.com/streamchain-serial.pdf)
+- [FastFabric: Scaling Hyperledger Fabric to 20,000 Transactions per Second (ICBC 2019)](https://ieeexplore.ieee.org/document/8751452)
+- [Fair and Efficient Gossip in Hyperledger Fabric (ICDCS 2020)](https://ieeexplore.ieee.org/document/9355725)
+- [Quick Block Transport System for Scalable Hyperledger Fabric Blockchain Over D2D-Assisted 5G Networks (IEEE TNSM 2022](https://ieeexplore.ieee.org/document/9585564)
+- [A Journey Towards the Most Efficient State Database for Hyperledger Fabric (ICBC 2023)](https://ieeexplore.ieee.org/document/10174970)
+
 # Performance Evaluation
 - [BLOCKBENCH: A Framework for Analyzing Private Blockchains (SIGMOD 2017)](https://dl.acm.org/doi/10.1145/3035918.3064033)
 - [Performance Benchmarking and Optimizing Hyperledger Fabric Blockchain Platform (MASCOTS 2018)](https://ieeexplore.ieee.org/document/8526892)
-- [Performance Characterization of Hyperledger Fabric (2018 Crypto Valley Conference on Blockchain Technology (CVCBT 2018))](https://ieeexplore.ieee.org/document/8525394)
+- [Performance Characterization of Hyperledger Fabric (CVCBT 2018)](https://ieeexplore.ieee.org/document/8525394)
 
-# Security
+# Security & Privacy
 - [Blockchain and trusted computing: Problems, pitfalls, and a solution for hyperledger fabric](https://arxiv.org/abs/1805.08541)
 - [Designing for Privacy and Confidentiality on Distributed Ledgers for Enterprise (Middleware 2019)](https://dl.acm.org/doi/10.1145/3366626.3368128)
 - [The privacy protection mechanism of Hyperledger Fabric and its application in supply chain finance](https://cybersecurity.springeropen.com/articles/10.1186/s42400-019-0022-2)
@@ -46,8 +47,8 @@ Archiving academic papers for HLF researchers.
 - [Endorsement in Hyperledger Fabric via service discovery (IBM Journal of Research and Development 2019)](https://ieeexplore.ieee.org/document/8645637)
 
 # Applications
-  - [A Framework for Resilient, Transparent, High-throughput, Privacy-Enabled Central Bank Digital Currencies (eprint 2023)](https://eprint.iacr.org/2023/1717)
-  - [CBDC Bridging between Hyperledger Fabric and Permissioned EVM-based Blockchains (ICBC 2023)](https://ieeexplore.ieee.org/document/10174953)
-  - [FabAsset: Unique Digital Asset Management System for Hyperledger Fabric (BlockApp 2020)](https://ieeexplore.ieee.org/document/9355749)
+- [A Framework for Resilient, Transparent, High-throughput, Privacy-Enabled Central Bank Digital Currencies (eprint 2023)](https://eprint.iacr.org/2023/1717)
+- [CBDC Bridging between Hyperledger Fabric and Permissioned EVM-based Blockchains (ICBC 2023)](https://ieeexplore.ieee.org/document/10174953)
+- [FabAsset: Unique Digital Asset Management System for Hyperledger Fabric (BlockApp 2020)](https://ieeexplore.ieee.org/document/9355749)
 - [Design of Extensible Non-Fungible Token Model in Hyperledger Fabric (SERIAL 2019)](https://dl.acm.org/doi/abs/10.1145/3366611.3368142)
 - [BlockLot: Blockchain based Verifiable Lottery (arxiv 2019)](https://arxiv.org/abs/1912.00642)
