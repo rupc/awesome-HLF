@@ -26,7 +26,7 @@ Archiving academic papers for HLF researchers.
 - [StreamChain: Do Blockchains Need Blocks? (SERIAL'18)](https://www.vukolic.com/streamchain-serial.pdf)
 - [FastFabric: Scaling Hyperledger Fabric to 20,000 Transactions per Second (ICBC 2019)](https://ieeexplore.ieee.org/document/8751452)
 - [Fair and Efficient Gossip in Hyperledger Fabric (ICDCS 2020)](https://ieeexplore.ieee.org/document/9355725)
-- [Quick Block Transport System for Scalable Hyperledger Fabric Blockchain Over D2D-Assisted 5G Networks (IEEE TNSM 2022](https://ieeexplore.ieee.org/document/9585564)
+- [Quick Block Transport System for Scalable Hyperledger Fabric Blockchain Over D2D-Assisted 5G Networks (IEEE TNSM 2022)](https://ieeexplore.ieee.org/document/9585564)
 - [A Journey Towards the Most Efficient State Database for Hyperledger Fabric (ICBC 2023)](https://ieeexplore.ieee.org/document/10174970)
 
 # Performance Evaluation
