@@ -28,11 +28,13 @@ Archiving academic papers for HLF researchers.
 - [Fair and Efficient Gossip in Hyperledger Fabric (ICDCS 2020)](https://ieeexplore.ieee.org/document/9355725)
 - [Quick Block Transport System for Scalable Hyperledger Fabric Blockchain Over D2D-Assisted 5G Networks (IEEE TNSM 2022)](https://ieeexplore.ieee.org/document/9585564)
 - [A Journey Towards the Most Efficient State Database for Hyperledger Fabric (ICBC 2023)](https://ieeexplore.ieee.org/document/10174970)
+- [Auto-Tuning with Reinforcement Learning for Permissioned Blockchain Systems (VLDB 2023)](https://dl.acm.org/doi/10.14778/3579075.3579076)
 
 # Performance Evaluation
 - [BLOCKBENCH: A Framework for Analyzing Private Blockchains (SIGMOD 2017)](https://dl.acm.org/doi/10.1145/3035918.3064033)
 - [Performance Benchmarking and Optimizing Hyperledger Fabric Blockchain Platform (MASCOTS 2018)](https://ieeexplore.ieee.org/document/8526892)
 - [Performance Characterization of Hyperledger Fabric (CVCBT 2018)](https://ieeexplore.ieee.org/document/8525394)
+- [BBS: Micro-Architecture Benchmarking Blockchain Systems through Machine Learning and Fuzzy Set (HPCA 2020)](https://ieeexplore.ieee.org/document/9065588)
 
 # Security & Privacy
 - [Blockchain and trusted computing: Problems, pitfalls, and a solution for hyperledger fabric](https://arxiv.org/abs/1805.08541)
