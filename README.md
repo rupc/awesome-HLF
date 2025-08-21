@@ -4,6 +4,7 @@ Archiving academic papers for HLF researchers.
 - [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains (Eurosys 2017)](https://dl.acm.org/doi/abs/10.1145/3190508.3190538)
 - [Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains (ESORICS 2018)](https://link.springer.com/chapter/10.1007/978-3-319-99073-6_6)
 - [AdaChain: A Learned Adaptive Blockchain (VLDB 2023)](https://dl.acm.org/doi/abs/10.14778/3594512.3594531)
+- [HiCoCS: High Concurrency Cross-Sharding on Permissioned Blockchains](https://arxiv.org/pdf/2501.04265)
 
 # Transaction Processing (Execute-Order-Validate, XOV)
 - [XOX Fabric: A hybrid approach to blockchain transaction execution (arxiv 2019)](https://arxiv.org/abs/1906.11229)
